@@ -4,6 +4,10 @@
   "licence": "MIT",
   "description": "A package to simplify working with environment variables in package.json scripts.",
   "main": "./dist/ensu.js",
+  "files": [
+    "dist/**",
+    "LICENCE"
+  ],
   "bin": {
     "ensu": "./dist/ensu.js"
   },
