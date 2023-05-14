@@ -1,6 +1,6 @@
 {
   "name": "ensu",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "licence": "MIT",
   "description": "A package to simplify working with environment variables in package.json scripts.",
   "main": "./dist/ensu.js",
